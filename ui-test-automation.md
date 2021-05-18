@@ -16,7 +16,7 @@ Please test this web application: https://ui-test-app.betty.app/login
 
 ## Requirements
 
-- Any programming language and libraries can be used (though Node.js is preferred)
+- Any programming language and libraries can be used (though Node.js and [TestCafe](https://testcafe.io/) are preferred)
 - The solution includes a README.md file describing how to set up the environment and run the tests
 - The test cases and automation are stored as a public GitHub repository
 
